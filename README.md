@@ -95,7 +95,7 @@
 </h2>
 
 <p align="center" >
-    <a href="https://heroku.com/deploy?template=https://github.com/Kai0071/A17">
+    <a href="https://heroku.com/deploy?template=https://github.com/Itsme-Didula/Didula-bot-md">
     <img src="https://www.herokucdn.com/deploy/button.png" width="160px" alt="Deploy on Heroku" >
     </a>
 </p>
